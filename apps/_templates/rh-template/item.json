@@ -1,0 +1,11 @@
+{
+  "id": "rh-1234567890",
+  "sourceMode": "rh",
+  "title": "RunningHub App Title",
+  "summary": "One-line summary for the featured card.",
+  "description": "Longer notes about what this workflow does and when to use it.",
+  "tags": ["featured", "rh"],
+  "webappId": "1234567890",
+  "cover": "cover.jpg",
+  "status": "published"
+}

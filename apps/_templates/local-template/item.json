@@ -1,0 +1,11 @@
+{
+  "id": "local-example-workflow",
+  "sourceMode": "local",
+  "title": "Local Workflow Title",
+  "summary": "One-line summary for the featured card.",
+  "description": "Longer notes about what this local workflow does and when to use it.",
+  "tags": ["featured", "local"],
+  "appFile": "workflow.app.json",
+  "cover": "cover.jpg",
+  "status": "published"
+}
