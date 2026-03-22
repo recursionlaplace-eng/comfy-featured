@@ -1,10 +1,13 @@
 {
   "id": "rh-2031016553440878594",
   "sourceMode": "rh",
-  "title": "RunningHub App 203101",
-  "summary": "由用户提供的 RunningHub 精选 App",
-  "description": "基于 ID 2031016553440878594 的 RunningHub 工作流。",
-  "tags": ["featured", "rh"],
+  "title": "LTX2.3 数字人",
+  "summary": "图片生成对口型视频",
+  "description": "LTX2.3 数字人，采用LTX2.3 传入图像生成对口型视频",
+  "tags": [
+    "对口型"
+  ],
+  "status": "published",
   "webappId": "2031016553440878594",
-  "status": "published"
+  "cover": "cover.jpg"
 }
