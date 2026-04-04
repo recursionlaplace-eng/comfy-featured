@@ -9,12 +9,22 @@
     "category": "写实",
     "styleKind": "visual",
     "description": "柔光肤感、清冷氛围、都市情绪。",
+    "toneTags": [
+      "清透",
+      "柔和"
+    ],
+    "cameraBias": [
+      "近景人物"
+    ],
+    "lightingBias": [
+      "柔光",
+      "冷暖轻对比"
+    ],
+    "textureBias": [
+      "皮肤通透"
+    ],
+    "customSlots": [],
     "visualPresetId": "korean_mood",
-    "visualPrompt": "韩系氛围，肤感通透，色彩清淡克制，适合爱情、都市、校园与情绪类叙事。",
-    "toneTags": ["清透", "柔和"],
-    "cameraBias": ["近景人物"],
-    "lightingBias": ["柔光", "冷暖轻对比"],
-    "textureBias": ["皮肤通透"],
-    "customSlots": []
+    "visualPrompt": "韩系氛围，肤感通透，色彩清淡克制，适合爱情、都市、校园与情绪类叙事。"
   }
 }

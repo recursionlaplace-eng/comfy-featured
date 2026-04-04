@@ -9,12 +9,21 @@
     "category": "国风",
     "styleKind": "visual",
     "description": "留白、水墨、诗性东方。",
+    "toneTags": [
+      "留白",
+      "诗意"
+    ],
+    "cameraBias": [
+      "卷轴式构图"
+    ],
+    "lightingBias": [
+      "柔和雾化"
+    ],
+    "textureBias": [
+      "水墨晕染"
+    ],
+    "customSlots": [],
     "visualPresetId": "ink_wash",
-    "visualPrompt": "国风水墨，留白明显，墨色层次丰富，画面气息诗性而克制，适合东方意境题材。",
-    "toneTags": ["留白", "诗意"],
-    "cameraBias": ["卷轴式构图"],
-    "lightingBias": ["柔和雾化"],
-    "textureBias": ["水墨晕染"],
-    "customSlots": []
+    "visualPrompt": "国风水墨，留白明显，墨色层次丰富，画面气息诗性而克制，适合东方意境题材。"
   }
 }

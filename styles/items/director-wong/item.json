@@ -9,12 +9,27 @@
     "category": "情绪",
     "styleKind": "director",
     "description": "潮湿夜色、霓虹色偏、主观情绪流。适合都市暧昧、失落、回忆与欲望题材。",
+    "toneTags": [
+      "迷离",
+      "潮湿",
+      "暧昧"
+    ],
+    "cameraBias": [
+      "手持观察",
+      "慢速推进",
+      "特写停顿"
+    ],
+    "lightingBias": [
+      "霓虹混光",
+      "暖冷交织",
+      "潮湿反光"
+    ],
+    "textureBias": [
+      "胶片感",
+      "朦胧拖影"
+    ],
+    "customSlots": [],
     "directorPresetId": "wong",
-    "directorPrompt": "强调情绪流动、都市夜色、主观感受与片段化记忆，允许慢镜、停顿、霓虹光影和人物游离状态。",
-    "toneTags": ["迷离", "潮湿", "暧昧"],
-    "cameraBias": ["手持观察", "慢速推进", "特写停顿"],
-    "lightingBias": ["霓虹混光", "暖冷交织", "潮湿反光"],
-    "textureBias": ["胶片感", "朦胧拖影"],
-    "customSlots": []
+    "directorPrompt": "强调情绪流动、都市夜色、主观感受与片段化记忆，允许慢镜、停顿、霓虹光影和人物游离状态。"
   }
 }

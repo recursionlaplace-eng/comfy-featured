@@ -9,12 +9,21 @@
     "category": "动画",
     "styleKind": "visual",
     "description": "温暖自然、童真幻想、手绘动画感。",
+    "toneTags": [
+      "温暖",
+      "童真"
+    ],
+    "cameraBias": [
+      "环境展示"
+    ],
+    "lightingBias": [
+      "柔和自然光"
+    ],
+    "textureBias": [
+      "手绘感"
+    ],
+    "customSlots": [],
     "visualPresetId": "ghibli",
-    "visualPrompt": "吉卜力式手绘动画气质，自然、温暖、细腻，带有幻想与生活感并存的空气。",
-    "toneTags": ["温暖", "童真"],
-    "cameraBias": ["环境展示"],
-    "lightingBias": ["柔和自然光"],
-    "textureBias": ["手绘感"],
-    "customSlots": []
+    "visualPrompt": "吉卜力式手绘动画气质，自然、温暖、细腻，带有幻想与生活感并存的空气。"
   }
 }

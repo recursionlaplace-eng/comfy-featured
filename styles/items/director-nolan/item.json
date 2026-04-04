@@ -9,12 +9,26 @@
     "category": "史诗",
     "styleKind": "director",
     "description": "结构性推进、宏大空间、强动势。适合科幻、战争、竞技和时间结构题材。",
+    "toneTags": [
+      "理性",
+      "史诗",
+      "紧张"
+    ],
+    "cameraBias": [
+      "广角规模镜头",
+      "推进式调度",
+      "IMAX感构图"
+    ],
+    "lightingBias": [
+      "高对比自然光",
+      "冷暖克制"
+    ],
+    "textureBias": [
+      "清晰锐利",
+      "大银幕质感"
+    ],
+    "customSlots": [],
     "directorPresetId": "nolan",
-    "directorPrompt": "偏理性与结构推进，镜头强调规模、动势、空间深度和时间压力，适合高概念叙事。",
-    "toneTags": ["理性", "史诗", "紧张"],
-    "cameraBias": ["广角规模镜头", "推进式调度", "IMAX感构图"],
-    "lightingBias": ["高对比自然光", "冷暖克制"],
-    "textureBias": ["清晰锐利", "大银幕质感"],
-    "customSlots": []
+    "directorPrompt": "偏理性与结构推进，镜头强调规模、动势、空间深度和时间压力，适合高概念叙事。"
   }
 }

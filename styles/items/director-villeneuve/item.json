@@ -9,12 +9,26 @@
     "category": "科幻",
     "styleKind": "director",
     "description": "极简巨构、肃穆静压、规模感强。适合末日、文明、未知降临题材。",
+    "toneTags": [
+      "肃穆",
+      "宏大",
+      "静压"
+    ],
+    "cameraBias": [
+      "极宽景",
+      "缓慢推进",
+      "远近比例反差"
+    ],
+    "lightingBias": [
+      "沙尘冷暖",
+      "低饱和环境光"
+    ],
+    "textureBias": [
+      "工业质感",
+      "极简表面"
+    ],
+    "customSlots": [],
     "directorPresetId": "villeneuve",
-    "directorPrompt": "强调宏大空间、人物渺小感、静压式节奏和极简科幻构图，气氛肃穆克制。",
-    "toneTags": ["肃穆", "宏大", "静压"],
-    "cameraBias": ["极宽景", "缓慢推进", "远近比例反差"],
-    "lightingBias": ["沙尘冷暖", "低饱和环境光"],
-    "textureBias": ["工业质感", "极简表面"],
-    "customSlots": []
+    "directorPrompt": "强调宏大空间、人物渺小感、静压式节奏和极简科幻构图，气氛肃穆克制。"
   }
 }

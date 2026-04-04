@@ -9,12 +9,21 @@
     "category": "国风",
     "styleKind": "visual",
     "description": "民俗平面造型、剪纸层次和皮影戏感。",
+    "toneTags": [
+      "民俗",
+      "平面"
+    ],
+    "cameraBias": [
+      "正面展示"
+    ],
+    "lightingBias": [
+      "透光剪影"
+    ],
+    "textureBias": [
+      "纸张纹理"
+    ],
+    "customSlots": [],
     "visualPresetId": "paper_cut",
-    "visualPrompt": "皮影剪纸风格，民俗感强，色块平面化，层次分明，适合传统神话与民间故事。",
-    "toneTags": ["民俗", "平面"],
-    "cameraBias": ["正面展示"],
-    "lightingBias": ["透光剪影"],
-    "textureBias": ["纸张纹理"],
-    "customSlots": []
+    "visualPrompt": "皮影剪纸风格，民俗感强，色块平面化，层次分明，适合传统神话与民间故事。"
   }
 }

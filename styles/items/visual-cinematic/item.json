@@ -9,12 +9,21 @@
     "category": "写实",
     "styleKind": "visual",
     "description": "通用电影感写实风格，适合大多数叙事与人物镜头。",
+    "toneTags": [
+      "真实",
+      "电影感"
+    ],
+    "cameraBias": [
+      "标准摄影"
+    ],
+    "lightingBias": [
+      "电影布光"
+    ],
+    "textureBias": [
+      "写实肌理"
+    ],
+    "customSlots": [],
     "visualPresetId": "cinematic",
-    "visualPrompt": "电影写实，构图稳定，人物和场景真实可信，强调镜头语言、光影层次和摄影质感。",
-    "toneTags": ["真实", "电影感"],
-    "cameraBias": ["标准摄影"],
-    "lightingBias": ["电影布光"],
-    "textureBias": ["写实肌理"],
-    "customSlots": []
+    "visualPrompt": "电影写实，构图稳定，人物和场景真实可信，强调镜头语言、光影层次和摄影质感。"
   }
 }

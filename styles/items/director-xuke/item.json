@@ -9,12 +9,26 @@
     "category": "武侠",
     "styleKind": "director",
     "description": "奇谲江湖、强动作设计、神怪奇观。适合武侠、仙侠和华语奇幻动作。",
+    "toneTags": [
+      "江湖",
+      "奇谲",
+      "凌厉"
+    ],
+    "cameraBias": [
+      "快速移动",
+      "动作跟拍",
+      "大幅度转场"
+    ],
+    "lightingBias": [
+      "冷暖交锋",
+      "舞台化轮廓光"
+    ],
+    "textureBias": [
+      "锋利金属感",
+      "烟尘动势"
+    ],
+    "customSlots": [],
     "directorPresetId": "xuke",
-    "directorPrompt": "强调江湖奇观、动作动势、兵器设计和奇幻设定的融合，镜头更灵动更具冲击。",
-    "toneTags": ["江湖", "奇谲", "凌厉"],
-    "cameraBias": ["快速移动", "动作跟拍", "大幅度转场"],
-    "lightingBias": ["冷暖交锋", "舞台化轮廓光"],
-    "textureBias": ["锋利金属感", "烟尘动势"],
-    "customSlots": []
+    "directorPrompt": "强调江湖奇观、动作动势、兵器设计和奇幻设定的融合，镜头更灵动更具冲击。"
   }
 }

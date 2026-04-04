@@ -11,10 +11,6 @@
     "category": "悬疑",
     "styleKind": "director",
     "description": "压迫构图、冷色控制、审讯感节奏。适合密室、真相、犯罪与心理压迫题材。",
-    "visualPresetId": "",
-    "directorPresetId": "fincher",
-    "visualPrompt": "",
-    "directorPrompt": "冷峻、克制、压迫感强，偏稳定机位与缓慢推进，强调空间压缩、角色审视关系与冷色悬疑氛围。",
     "toneTags": [
       "冷峻",
       "压迫",
@@ -35,6 +31,7 @@
       "克制颗粒"
     ],
     "customSlots": [],
-    "image": ""
+    "directorPresetId": "fincher",
+    "directorPrompt": "冷峻、克制、压迫感强，偏稳定机位与缓慢推进，强调空间压缩、角色审视关系与冷色悬疑氛围。"
   }
 }

@@ -9,12 +9,21 @@
     "category": "写实",
     "styleKind": "visual",
     "description": "清晰直给、人物突出、信息密度高。",
+    "toneTags": [
+      "直给",
+      "清晰"
+    ],
+    "cameraBias": [
+      "中近景"
+    ],
+    "lightingBias": [
+      "干净主光"
+    ],
+    "textureBias": [
+      "锐利数码"
+    ],
+    "customSlots": [],
     "visualPresetId": "shortdrama_look",
-    "visualPrompt": "短剧质感，人物突出，情绪直给，镜头语言明确，适合甜宠、逆袭、冲突密集的短内容。",
-    "toneTags": ["直给", "清晰"],
-    "cameraBias": ["中近景"],
-    "lightingBias": ["干净主光"],
-    "textureBias": ["锐利数码"],
-    "customSlots": []
+    "visualPrompt": "短剧质感，人物突出，情绪直给，镜头语言明确，适合甜宠、逆袭、冲突密集的短内容。"
   }
 }

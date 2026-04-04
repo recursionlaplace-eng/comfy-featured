@@ -11,10 +11,6 @@
     "category": "奇幻",
     "styleKind": "director",
     "description": "怪诞人物、黑童话、戏剧化场景。适合哥特、万圣、怪奇和童话恐怖题材。",
-    "visualPresetId": "",
-    "directorPresetId": "burton",
-    "visualPrompt": "",
-    "directorPrompt": "强调哥特式怪诞、童话恐怖、角色造型夸张和暗色奇观，具有舞台化戏剧感。",
     "toneTags": [
       "怪诞",
       "哥特",
@@ -33,6 +29,7 @@
       "暗黑装饰"
     ],
     "customSlots": [],
-    "image": ""
+    "directorPresetId": "burton",
+    "directorPrompt": "强调哥特式怪诞、童话恐怖、角色造型夸张和暗色奇观，具有舞台化戏剧感。"
   }
 }

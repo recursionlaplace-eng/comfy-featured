@@ -9,12 +9,21 @@
     "category": "动画",
     "styleKind": "visual",
     "description": "明亮梦幻、角色友好、童话感强。",
+    "toneTags": [
+      "梦幻",
+      "明亮"
+    ],
+    "cameraBias": [
+      "故事板式展示"
+    ],
+    "lightingBias": [
+      "高亮柔和"
+    ],
+    "textureBias": [
+      "3D动画光洁感"
+    ],
+    "customSlots": [],
     "visualPresetId": "disney_3d",
-    "visualPrompt": "迪士尼式 3D 童话风格，色彩明亮梦幻，角色亲和，适合公主、冒险、家庭向题材。",
-    "toneTags": ["梦幻", "明亮"],
-    "cameraBias": ["故事板式展示"],
-    "lightingBias": ["高亮柔和"],
-    "textureBias": ["3D动画光洁感"],
-    "customSlots": []
+    "visualPrompt": "迪士尼式 3D 童话风格，色彩明亮梦幻，角色亲和，适合公主、冒险、家庭向题材。"
   }
 }
