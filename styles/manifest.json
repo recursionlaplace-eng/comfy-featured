@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "items": [
+    { "id": "director-fincher", "path": "styles/items/director-fincher/item.json" },
+    { "id": "director-wong", "path": "styles/items/director-wong/item.json" },
+    { "id": "director-anderson", "path": "styles/items/director-anderson/item.json" },
+    { "id": "director-nolan", "path": "styles/items/director-nolan/item.json" },
+    { "id": "director-villeneuve", "path": "styles/items/director-villeneuve/item.json" },
+    { "id": "director-burton", "path": "styles/items/director-burton/item.json" },
+    { "id": "director-koreeda", "path": "styles/items/director-koreeda/item.json" },
+    { "id": "director-xuke", "path": "styles/items/director-xuke/item.json" },
+    { "id": "visual-cinematic", "path": "styles/items/visual-cinematic/item.json" },
+    { "id": "visual-noir", "path": "styles/items/visual-noir/item.json" },
+    { "id": "visual-korean-mood", "path": "styles/items/visual-korean-mood/item.json" },
+    { "id": "visual-shortdrama-look", "path": "styles/items/visual-shortdrama-look/item.json" },
+    { "id": "visual-ghibli", "path": "styles/items/visual-ghibli/item.json" },
+    { "id": "visual-disney-3d", "path": "styles/items/visual-disney-3d/item.json" },
+    { "id": "visual-donghua-xianxia", "path": "styles/items/visual-donghua-xianxia/item.json" },
+    { "id": "visual-ink-wash", "path": "styles/items/visual-ink-wash/item.json" },
+    { "id": "visual-paper-cut", "path": "styles/items/visual-paper-cut/item.json" },
+    { "id": "visual-cyberpunk", "path": "styles/items/visual-cyberpunk/item.json" }
+  ]
+}

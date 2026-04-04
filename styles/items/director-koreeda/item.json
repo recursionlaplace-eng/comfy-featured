@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "id": "director-koreeda",
+  "title": "是枝裕和·治愈日常",
+  "createdAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "data": {
+    "name": "是枝裕和·治愈日常",
+    "category": "生活",
+    "styleKind": "director",
+    "description": "克制观察、日常细节、温柔留白。适合家庭、成长、生活流与治愈题材。",
+    "directorPresetId": "koreeda",
+    "directorPrompt": "保持观察式镜头与生活化节奏，强调人物关系、呼吸感、安静空间与克制情绪。",
+    "toneTags": ["温柔", "克制", "日常"],
+    "cameraBias": ["固定观察镜头", "缓慢切换", "生活流构图"],
+    "lightingBias": ["自然光", "柔和室内光"],
+    "textureBias": ["轻颗粒", "真实肌理"],
+    "customSlots": []
+  }
+}

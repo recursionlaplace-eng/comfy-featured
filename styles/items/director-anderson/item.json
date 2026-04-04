@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "id": "director-anderson",
+  "title": "韦斯·安德森·对称美学",
+  "createdAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "data": {
+    "name": "韦斯·安德森·对称美学",
+    "category": "构图",
+    "styleKind": "director",
+    "description": "对称构图、整齐调度、复古幽默。适合童话、怪诞、轻喜剧和章节化叙事。",
+    "directorPresetId": "anderson",
+    "directorPrompt": "强调对称构图、平视镜头、章回式节奏与精确调度，适合带有趣味性和设计感的视觉表达。",
+    "toneTags": ["对称", "复古", "怪诞"],
+    "cameraBias": ["平视中心构图", "横向移动", "图鉴式展示"],
+    "lightingBias": ["柔和均匀", "低对比", "糖果色调"],
+    "textureBias": ["复古印刷", "洁净平整"],
+    "customSlots": []
+  }
+}

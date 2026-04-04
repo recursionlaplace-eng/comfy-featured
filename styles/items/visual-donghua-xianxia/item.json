@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "id": "visual-donghua-xianxia",
+  "title": "3D修仙",
+  "createdAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "data": {
+    "name": "3D修仙",
+    "category": "动画",
+    "styleKind": "visual",
+    "description": "国创仙侠、灵气特效、角色建模感。",
+    "visualPresetId": "donghua_xianxia",
+    "visualPrompt": "3D 修仙国漫风格，仙侠人物设计、灵气特效、云雾与法术表现更突出。",
+    "toneTags": ["仙侠", "灵动"],
+    "cameraBias": ["奇观展示"],
+    "lightingBias": ["灵光", "体积光"],
+    "textureBias": ["3D国漫渲染"],
+    "customSlots": []
+  }
+}

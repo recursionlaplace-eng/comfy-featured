@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "id": "visual-cyberpunk",
+  "title": "赛博朋克",
+  "createdAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "data": {
+    "name": "赛博朋克",
+    "category": "幻想",
+    "styleKind": "visual",
+    "description": "霓虹工业、未来都市、潮湿反光。",
+    "visualPresetId": "cyberpunk",
+    "visualPrompt": "赛博朋克风格，霓虹工业城市、潮湿反光、机械与街头并置，适合科幻都市题材。",
+    "toneTags": ["霓虹", "未来"],
+    "cameraBias": ["透视深巷"],
+    "lightingBias": ["霓虹混光"],
+    "textureBias": ["金属湿润"],
+    "customSlots": []
+  }
+}

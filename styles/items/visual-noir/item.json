@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "id": "visual-noir",
+  "title": "黑色电影",
+  "createdAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "data": {
+    "name": "黑色电影",
+    "category": "写实",
+    "styleKind": "visual",
+    "description": "低照度、高反差、悬疑气氛。",
+    "visualPresetId": "noir",
+    "visualPrompt": "黑色电影风格，低照度、高反差、冷峻阴影，适合悬疑、犯罪、心理压迫题材。",
+    "toneTags": ["冷峻", "危险"],
+    "cameraBias": ["压迫构图"],
+    "lightingBias": ["高反差阴影"],
+    "textureBias": ["冷硬颗粒"],
+    "customSlots": []
+  }
+}
