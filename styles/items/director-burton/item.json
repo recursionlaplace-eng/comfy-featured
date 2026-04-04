@@ -3,18 +3,36 @@
   "id": "director-burton",
   "title": "蒂姆·伯顿·哥特童话",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-04T04:58:30.707Z",
+  "status": "published",
+  "cover": "未标题-1.png",
   "data": {
     "name": "蒂姆·伯顿·哥特童话",
     "category": "奇幻",
     "styleKind": "director",
     "description": "怪诞人物、黑童话、戏剧化场景。适合哥特、万圣、怪奇和童话恐怖题材。",
+    "visualPresetId": "",
     "directorPresetId": "burton",
+    "visualPrompt": "",
     "directorPrompt": "强调哥特式怪诞、童话恐怖、角色造型夸张和暗色奇观，具有舞台化戏剧感。",
-    "toneTags": ["怪诞", "哥特", "童话"],
-    "cameraBias": ["舞台式正面构图", "夸张透视"],
-    "lightingBias": ["冷月光", "局部戏剧光"],
-    "textureBias": ["手工感", "暗黑装饰"],
-    "customSlots": []
+    "toneTags": [
+      "怪诞",
+      "哥特",
+      "童话"
+    ],
+    "cameraBias": [
+      "舞台式正面构图",
+      "夸张透视"
+    ],
+    "lightingBias": [
+      "冷月光",
+      "局部戏剧光"
+    ],
+    "textureBias": [
+      "手工感",
+      "暗黑装饰"
+    ],
+    "customSlots": [],
+    "image": ""
   }
 }
