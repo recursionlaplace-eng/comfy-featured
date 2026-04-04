@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "id": "character-fucker侠",
+  "title": "测试1",
+  "createdAt": "2026-04-04T18:22:02.931Z",
+  "updatedAt": "2026-04-04T18:22:02.931Z",
+  "status": "published",
+  "data": {
+    "name": "fucker侠",
+    "customSlots": [],
+    "role": "主角",
+    "age": "40",
+    "gender": "男",
+    "race": "黑人",
+    "era": "现代",
+    "traits": "黑人，破兜帽，牛仔裤。",
+    "body": "正常提醒",
+    "headBodyRatio": "正常头身比",
+    "face": "不知道",
+    "eyebrows": "1",
+    "eyes": "1",
+    "nose": "1",
+    "skin": "1",
+    "hairstyle": "1",
+    "hairColor": "1",
+    "clothingInner": "我去好多啊",
+    "clothingMiddle": "1111",
+    "clothingWaist": "111",
+    "clothingShoes": "111",
+    "appearance": "mother fuker侠",
+    "personality": "der",
+    "backstory": "none"
+  },
+  "media": {
+    "main": {
+      "path": "main.jpg",
+      "type": "image"
+    }
+  }
+}
