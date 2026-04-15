@@ -3,7 +3,9 @@
   "id": "visual-noir",
   "title": "黑色电影",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T13:27:10.790Z",
+  "status": "published",
+  "cover": "saibopengke.png",
   "data": {
     "name": "黑色电影",
     "category": "写实",

@@ -1,11 +1,13 @@
 {
   "version": 1,
   "id": "visual-korean-mood",
-  "title": "韩系氛围",
+  "title": "韩剧肥皂",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T13:27:41.219Z",
+  "status": "published",
+  "cover": "韩系爱情.png",
   "data": {
-    "name": "韩系氛围",
+    "name": "韩剧肥皂",
     "category": "写实",
     "styleKind": "visual",
     "description": "柔光肤感、清冷氛围、都市情绪。",

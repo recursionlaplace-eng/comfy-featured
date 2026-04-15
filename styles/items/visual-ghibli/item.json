@@ -3,7 +3,9 @@
   "id": "visual-ghibli",
   "title": "吉卜力",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T13:28:21.612Z",
+  "status": "published",
+  "cover": "吉卜力.png",
   "data": {
     "name": "吉卜力",
     "category": "动画",

@@ -1,11 +1,13 @@
 {
   "version": 1,
   "id": "visual-shortdrama-look",
-  "title": "短剧质感",
+  "title": "网络短剧",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T13:28:14.574Z",
+  "status": "published",
+  "cover": "短剧.png",
   "data": {
-    "name": "短剧质感",
+    "name": "网络短剧",
     "category": "写实",
     "styleKind": "visual",
     "description": "清晰直给、人物突出、信息密度高。",

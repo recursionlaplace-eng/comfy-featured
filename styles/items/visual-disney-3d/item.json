@@ -3,7 +3,9 @@
   "id": "visual-disney-3d",
   "title": "迪士尼",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T13:28:27.657Z",
+  "status": "published",
+  "cover": "迪士尼3D.png",
   "data": {
     "name": "迪士尼",
     "category": "动画",

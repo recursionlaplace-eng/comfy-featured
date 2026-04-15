@@ -3,7 +3,9 @@
   "id": "visual-cinematic",
   "title": "电影写实",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T13:27:03.296Z",
+  "status": "published",
+  "cover": "电影写实.png",
   "data": {
     "name": "电影写实",
     "category": "写实",
