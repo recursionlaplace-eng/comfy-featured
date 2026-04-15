@@ -1,11 +1,13 @@
 {
   "version": 1,
   "id": "director-xuke",
-  "title": "徐克·武侠奇幻",
+  "title": "徐克 [武侠奇幻]",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T13:06:14.571Z",
+  "status": "published",
+  "cover": "徐克_黄飞鸿.png",
   "data": {
-    "name": "徐克·武侠奇幻",
+    "name": "徐克 [Hark Tsui]",
     "category": "武侠",
     "styleKind": "director",
     "description": "奇谲江湖、强动作设计、神怪奇观。适合武侠、仙侠和华语奇幻动作。",
@@ -28,7 +30,7 @@
       "烟尘动势"
     ],
     "customSlots": [],
-    "directorPresetId": "xuke",
+    "directorPresetId": "徐克",
     "directorPrompt": "强调江湖奇观、动作动势、兵器设计和奇幻设定的融合，镜头更灵动更具冲击。"
   }
 }

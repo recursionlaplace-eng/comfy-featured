@@ -1,18 +1,20 @@
 {
   "version": 1,
   "id": "director-anderson",
-  "title": "韦斯·安德森·对称美学",
+  "title": "Wesley Wales Anderson [‌童话叙事‌]",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T12:50:28.101Z",
+  "status": "published",
+  "cover": "韦斯·安德森_布达拉斯大饭店.png",
   "data": {
-    "name": "韦斯·安德森·对称美学",
+    "name": "Wesley Wales Anderson [韦斯·安德森]",
     "category": "构图",
     "styleKind": "director",
     "description": "对称构图、整齐调度、复古幽默。适合童话、怪诞、轻喜剧和章节化叙事。",
     "toneTags": [
       "对称",
       "复古",
-      "怪诞"
+      "怪诞，高饱和度‌，超现实"
     ],
     "cameraBias": [
       "平视中心构图",
@@ -29,7 +31,7 @@
       "洁净平整"
     ],
     "customSlots": [],
-    "directorPresetId": "anderson",
-    "directorPrompt": "强调对称构图、平视镜头、章回式节奏与精确调度，适合带有趣味性和设计感的视觉表达。"
+    "directorPresetId": "Wesley Wales Anderson",
+    "directorPrompt": "强调对称构图、平视镜头、章回式节奏与精确调度，适合带有趣味性和设计感的视觉表达。善用‌高饱和度‌与‌特定色调‌，色彩协调且具超越现实的童话感 。‌‌"
   }
 }

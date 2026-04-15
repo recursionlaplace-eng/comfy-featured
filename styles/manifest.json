@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-04T06:12:38.700Z",
+  "updatedAt": "2026-04-15T13:06:14.571Z",
   "items": [
     {
       "id": "director-fincher",
@@ -25,10 +25,6 @@
     {
       "id": "director-burton",
       "path": "items/director-burton/item.json"
-    },
-    {
-      "id": "director-koreeda",
-      "path": "items/director-koreeda/item.json"
     },
     {
       "id": "director-xuke",

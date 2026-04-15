@@ -1,14 +1,16 @@
 {
   "version": 1,
   "id": "director-nolan",
-  "title": "诺兰·理性奇观",
+  "title": "Christopher Nolan [奇观]",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T12:55:00.784Z",
+  "status": "published",
+  "cover": "诺兰_盗梦空间.png",
   "data": {
-    "name": "诺兰·理性奇观",
+    "name": "Christopher Nolan [诺兰]",
     "category": "史诗",
     "styleKind": "director",
-    "description": "结构性推进、宏大空间、强动势。适合科幻、战争、竞技和时间结构题材。",
+    "description": "结构性推进、宏大空间、强动势。适合科幻、战争、竞技和时间结构题材。大画幅胶片IMAX画面质感，强调沉浸感‌",
     "toneTags": [
       "理性",
       "史诗",
@@ -28,7 +30,7 @@
       "大银幕质感"
     ],
     "customSlots": [],
-    "directorPresetId": "nolan",
+    "directorPresetId": "Christopher Nolan",
     "directorPrompt": "偏理性与结构推进，镜头强调规模、动势、空间深度和时间压力，适合高概念叙事。"
   }
 }

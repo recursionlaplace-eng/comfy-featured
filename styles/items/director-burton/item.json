@@ -1,13 +1,13 @@
 {
   "version": 1,
   "id": "director-burton",
-  "title": "蒂姆·伯顿·哥特童话",
+  "title": "Tim Burton [哥特童话]",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T04:58:30.707Z",
+  "updatedAt": "2026-04-15T13:03:05.450Z",
   "status": "published",
-  "cover": "未标题-1.png",
+  "cover": "蒂姆·伯顿_理发师陶德.png",
   "data": {
-    "name": "蒂姆·伯顿·哥特童话",
+    "name": "Tim Burton [蒂姆·伯顿]",
     "category": "奇幻",
     "styleKind": "director",
     "description": "怪诞人物、黑童话、戏剧化场景。适合哥特、万圣、怪奇和童话恐怖题材。",
@@ -29,7 +29,7 @@
       "暗黑装饰"
     ],
     "customSlots": [],
-    "directorPresetId": "burton",
+    "directorPresetId": "Tim Burton",
     "directorPrompt": "强调哥特式怪诞、童话恐怖、角色造型夸张和暗色奇观，具有舞台化戏剧感。"
   }
 }

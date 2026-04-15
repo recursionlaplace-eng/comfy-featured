@@ -1,23 +1,21 @@
 {
   "version": 1,
   "id": "director-fincher",
-  "title": "大卫·芬奇·冷峻悬疑",
+  "title": "David Fincher [悬疑]",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T06:12:38.698Z",
+  "updatedAt": "2026-04-15T12:59:15.871Z",
   "status": "published",
-  "cover": "ComfyUI_temp_bkjkn_00002_vpsir_1768135983.jpg",
+  "cover": "大卫芬奇七宗罪.png",
   "data": {
-    "name": "大卫·芬奇·冷峻悬疑",
+    "name": "David Fincher [大卫·芬奇]",
     "category": "悬疑",
     "styleKind": "director",
     "description": "压迫构图、冷色控制、审讯感节奏。适合密室、真相、犯罪与心理压迫题材。",
     "toneTags": [
-      "冷峻",
-      "压迫",
-      "克制"
+      "低饱和度色彩‌：偏好灰、蓝、黑等冷色调，营造压抑、疏离感；偶用高对比色（如黄色、橙色）突出关键元素"
     ],
     "cameraBias": [
-      "稳定推镜",
+      "克制镜头运动‌：稳定推镜",
       "缓慢摇移",
       "中近景压迫"
     ],
@@ -31,7 +29,8 @@
       "克制颗粒"
     ],
     "customSlots": [],
-    "directorPresetId": "fincher",
+    "image": "/api/image?collection=styles&id=director-fincher&file=%E5%A4%A7%E5%8D%AB%E8%8A%AC%E5%A5%87%E4%B8%83%E5%AE%97%E7%BD%AA.png",
+    "directorPresetId": "David Fincher",
     "directorPrompt": "冷峻、克制、压迫感强，偏稳定机位与缓慢推进，强调空间压缩、角色审视关系与冷色悬疑氛围。"
   }
 }

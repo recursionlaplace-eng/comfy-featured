@@ -1,11 +1,13 @@
 {
   "version": 1,
   "id": "director-villeneuve",
-  "title": "维伦纽瓦·肃穆科幻",
+  "title": "Denis Villeneuve [科幻]",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T12:58:27.224Z",
+  "status": "published",
+  "cover": "维伦纽瓦_银翼杀手.png",
   "data": {
-    "name": "维伦纽瓦·肃穆科幻",
+    "name": "Denis Villeneuve [维伦纽瓦]",
     "category": "科幻",
     "styleKind": "director",
     "description": "极简巨构、肃穆静压、规模感强。适合末日、文明、未知降临题材。",
@@ -28,7 +30,7 @@
       "极简表面"
     ],
     "customSlots": [],
-    "directorPresetId": "villeneuve",
+    "directorPresetId": "Denis Villeneuve",
     "directorPrompt": "强调宏大空间、人物渺小感、静压式节奏和极简科幻构图，气氛肃穆克制。"
   }
 }

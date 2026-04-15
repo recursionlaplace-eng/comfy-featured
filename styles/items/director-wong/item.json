@@ -1,35 +1,33 @@
 {
   "version": 1,
   "id": "director-wong",
-  "title": "王家卫·迷离情绪",
+  "title": "王家卫 [情绪]",
   "createdAt": "2026-04-04T12:00:00.000Z",
-  "updatedAt": "2026-04-04T12:00:00.000Z",
+  "updatedAt": "2026-04-15T12:59:10.268Z",
+  "status": "published",
+  "cover": "王家卫_重庆森林.png",
   "data": {
-    "name": "王家卫·迷离情绪",
+    "name": "王家卫 [Wong Kar Wai]",
     "category": "情绪",
     "styleKind": "director",
     "description": "潮湿夜色、霓虹色偏、主观情绪流。适合都市暧昧、失落、回忆与欲望题材。",
     "toneTags": [
-      "迷离",
-      "潮湿",
-      "暧昧"
+      "画面闪烁与梦幻感"
     ],
     "cameraBias": [
-      "手持观察",
-      "慢速推进",
-      "特写停顿"
+      "手持摄影",
+      "降格加印与慢门拍摄结合，产生画面卡顿和运动拖影，"
     ],
     "lightingBias": [
-      "霓虹混光",
-      "暖冷交织",
-      "潮湿反光"
+      "疏影横斜，光比大，善用伦勃朗光"
     ],
     "textureBias": [
       "胶片感",
       "朦胧拖影"
     ],
     "customSlots": [],
-    "directorPresetId": "wong",
-    "directorPrompt": "强调情绪流动、都市夜色、主观感受与片段化记忆，允许慢镜、停顿、霓虹光影和人物游离状态。"
+    "image": "/api/image?collection=styles&id=director-wong&file=%E7%8E%8B%E5%AE%B6%E5%8D%AB_%E9%87%8D%E5%BA%86%E6%A3%AE%E6%9E%97.png",
+    "directorPresetId": "Wong Kar Wai",
+    "directorPrompt": "王家卫运用偷格加印或降格加印技法造成画面闪烁与梦幻感，并使用超广角镜头制造空间扭曲与特殊人脸特写。热衷使用广角镜头，以视觉上的距离感暗合都市生活中人际的疏远。多用手持摄影，营造画面的晃动。大量使用玻璃、镜子等作为前景进行遮挡，营造梦幻氛围与窥探视角，并形成景框式构图。常用旁白和字幕卡串联故事线。"
   }
 }
