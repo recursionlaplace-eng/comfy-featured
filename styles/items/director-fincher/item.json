@@ -31,6 +31,6 @@
     "customSlots": [],
     "image": "/api/image?collection=styles&id=director-fincher&file=%E5%A4%A7%E5%8D%AB%E8%8A%AC%E5%A5%87%E4%B8%83%E5%AE%97%E7%BD%AA.png",
     "directorPresetId": "David Fincher",
-    "directorPrompt": "冷峻、克制、压迫感强，偏稳定机位与缓慢推进，强调空间压缩、角色审视关系与冷色悬疑氛围。"
+    "directorPrompt": "以冷峻、克制而高压的镜头语言强化画面表达，通过稳定的构图秩序、压缩性的空间关系、克制的人物调度与明确的审视感，让角色与环境之间形成持续的心理张力，使画面呈现冷静、精密、悬疑感强的导演化叙事气质，同时保证主体清晰、关系准确、情绪焦点集中且不过度煽动。"
   }
 }
