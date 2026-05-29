@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T03:37:41.408Z",
+  "updatedAt": "2026-05-29T17:46:22.403Z",
   "items": [
     {
       "id": "rh-2032404151749054465",
@@ -33,6 +33,14 @@
     {
       "id": "2019829025845288961",
       "path": "apps/2019829025845288961/item.json"
+    },
+    {
+      "id": "infinitetalk-loop",
+      "path": "apps/infinitetalk-loop/item.json"
+    },
+    {
+      "id": "z-image-turbo",
+      "path": "apps/z-image-turbo/item.json"
     }
   ]
 }

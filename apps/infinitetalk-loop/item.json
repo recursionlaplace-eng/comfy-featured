@@ -1,0 +1,15 @@
+{
+  "id": "infinitetalk-loop",
+  "sourceMode": "local",
+  "title": "InfiniteTalk-官方loop",
+  "summary": "",
+  "description": "",
+  "tags": [
+    "对口型"
+  ],
+  "appFile": "workflow.app.json",
+  "status": "published",
+  "managedBy": "afl-canvas-featured-local-sync",
+  "apiFile": "workflow.api.json",
+  "cover": "cover.png"
+}

@@ -1,0 +1,140 @@
+{
+  "9": {
+    "inputs": {
+      "filename_prefix": "z-image/z",
+      "images": [
+        "43",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "保存图像"
+    }
+  },
+  "39": {
+    "inputs": {
+      "clip_name": "Qwen\\qwen_3_4b.safetensors",
+      "type": "lumina2",
+      "device": "default"
+    },
+    "class_type": "CLIPLoader",
+    "_meta": {
+      "title": "加载CLIP"
+    }
+  },
+  "40": {
+    "inputs": {
+      "vae_name": "Flux\\ae.sft"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "加载VAE"
+    }
+  },
+  "41": {
+    "inputs": {
+      "width": 720,
+      "height": 1280,
+      "batch_size": 1
+    },
+    "class_type": "EmptySD3LatentImage",
+    "_meta": {
+      "title": "空Latent图像（SD3）"
+    }
+  },
+  "42": {
+    "inputs": {
+      "conditioning": [
+        "45",
+        0
+      ]
+    },
+    "class_type": "ConditioningZeroOut",
+    "_meta": {
+      "title": "条件零化"
+    }
+  },
+  "43": {
+    "inputs": {
+      "samples": [
+        "44",
+        0
+      ],
+      "vae": [
+        "40",
+        0
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE解码"
+    }
+  },
+  "44": {
+    "inputs": {
+      "seed": 113,
+      "steps": 9,
+      "cfg": 1,
+      "sampler_name": "res_multistep",
+      "scheduler": "sgm_uniform",
+      "denoise": 1,
+      "model": [
+        "47",
+        0
+      ],
+      "positive": [
+        "45",
+        0
+      ],
+      "negative": [
+        "42",
+        0
+      ],
+      "latent_image": [
+        "41",
+        0
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "K采样器"
+    }
+  },
+  "45": {
+    "inputs": {
+      "text": "超高清写实摄影，杰作，最佳质量，8KUHD，rawphoto，无滤镜直出，超高细节，锐利焦点，楼道声控灯光，手机随拍质感，CCD感，目常居家纪实写真。22岁成年女性，东亚面孔，慵懒松弛的气质，冷白皮，完全自然素颜，原生皮肤质感，五官柔和舒展，黑色齐肩短发随意凌乱，正提着垃圾袋站在居民楼楼道里，看向镜头，神情慵懒随性，身形纤细匀称。身着粉色纯棉家居服套装，宽松版型，无任何装饰，脚上穿着棉拖鞋，朴实居家穿搭。位于老式居民楼楼道，背景是斑驳的墙面、楼梯扶手、声控灯、邻居家的防盗门，傍晚昏暗的环境，只有声控灯的暖光打亮人物，环境充满真实生活气息。光影：室内暖光+侧光，声控灯暖光打亮人物，画面光影自然，明暗对比柔和，无调色无滤镜，暖色调，低饱和，松弛慵懒的日常氛围。技术：50mm标准镜头，平视角度，中景半身构图，中心构图，浅景深背景虚化，原生皮肤纹理，轻微颗粒感，8K超高清分辨率。",
+      "clip": [
+        "39",
+        0
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP文本编码"
+    }
+  },
+  "46": {
+    "inputs": {
+      "unet_name": "Z-Image-Turbo\\z_image_turbo_bf16.safetensors",
+      "weight_dtype": "default"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "UNet加载器"
+    }
+  },
+  "47": {
+    "inputs": {
+      "shift": 3,
+      "model": [
+        "46",
+        0
+      ]
+    },
+    "class_type": "ModelSamplingAuraFlow",
+    "_meta": {
+      "title": "采样算法（AuraFlow）"
+    }
+  }
+}

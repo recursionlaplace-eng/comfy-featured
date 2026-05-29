@@ -1,0 +1,15 @@
+{
+  "id": "z-image-turbo",
+  "sourceMode": "local",
+  "title": "Z image turbo",
+  "summary": "真实感文生图",
+  "description": "",
+  "tags": [
+    "文生图"
+  ],
+  "appFile": "workflow.app.json",
+  "status": "published",
+  "managedBy": "afl-canvas-featured-local-sync",
+  "apiFile": "workflow.api.json",
+  "cover": "cover.png"
+}
