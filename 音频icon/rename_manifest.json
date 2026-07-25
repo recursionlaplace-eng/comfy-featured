@@ -1,0 +1,1514 @@
+[
+  {
+    "old": "db1.webp",
+    "new": "DUB__id=001__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db2.webp",
+    "new": "DUB__id=002__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db3.webp",
+    "new": "DUB__id=003__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db4.webp",
+    "new": "DUB__id=004__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db5.webp",
+    "new": "DUB__id=005__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=旁白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db6.webp",
+    "new": "DUB__id=006__collection=机器人__voiceType=机器人__gender=未标注__age=unknown__register=中音__timbre=机械__persona=冷静__emotion=平静__usage=解说__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db7.webp",
+    "new": "DUB__id=007__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db8.webp",
+    "new": "DUB__id=008__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db9.webp",
+    "new": "DUB__id=009__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db10.webp",
+    "new": "DUB__id=010__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db11.webp",
+    "new": "DUB__id=011__collection=机器人__voiceType=机器人__gender=未标注__age=unknown__register=中音__timbre=机械__persona=冷静__emotion=平静__usage=解说__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db12.webp",
+    "new": "DUB__id=012__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db13.webp",
+    "new": "DUB__id=013__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db14.webp",
+    "new": "DUB__id=014__collection=综合__voiceType=unknown__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=神秘__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db15.webp",
+    "new": "DUB__id=015__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db16.webp",
+    "new": "DUB__id=016__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db17.webp",
+    "new": "DUB__id=017__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db18.webp",
+    "new": "DUB__id=018__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db19.webp",
+    "new": "DUB__id=019__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db20.webp",
+    "new": "DUB__id=020__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db21.webp",
+    "new": "DUB__id=021__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db22.webp",
+    "new": "DUB__id=022__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db23.webp",
+    "new": "DUB__id=023__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=旁白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db24.webp",
+    "new": "DUB__id=024__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db25.webp",
+    "new": "DUB__id=025__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db26.webp",
+    "new": "DUB__id=026__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db27.webp",
+    "new": "DUB__id=027__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=严肃__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db28.webp",
+    "new": "DUB__id=028__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db29.webp",
+    "new": "DUB__id=029__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=旁白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db30.webp",
+    "new": "DUB__id=030__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db31.webp",
+    "new": "DUB__id=031__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db32.webp",
+    "new": "DUB__id=032__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db33.webp",
+    "new": "DUB__id=033__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db34.webp",
+    "new": "DUB__id=034__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db35.webp",
+    "new": "DUB__id=035__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db36.webp",
+    "new": "DUB__id=036__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db37.webp",
+    "new": "DUB__id=037__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db38.webp",
+    "new": "DUB__id=038__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db39.webp",
+    "new": "DUB__id=039__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db40.webp",
+    "new": "DUB__id=040__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db41.webp",
+    "new": "DUB__id=041__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db42.webp",
+    "new": "DUB__id=042__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db43.webp",
+    "new": "DUB__id=043__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db44.webp",
+    "new": "DUB__id=044__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db45.webp",
+    "new": "DUB__id=045__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db46.webp",
+    "new": "DUB__id=046__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db47.webp",
+    "new": "DUB__id=047__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db48.webp",
+    "new": "DUB__id=048__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db49.webp",
+    "new": "DUB__id=049__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db50.webp",
+    "new": "DUB__id=050__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db51.webp",
+    "new": "DUB__id=051__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db52.webp",
+    "new": "DUB__id=052__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db53.webp",
+    "new": "DUB__id=053__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db54.webp",
+    "new": "DUB__id=054__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db55.webp",
+    "new": "DUB__id=055__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db56.webp",
+    "new": "DUB__id=056__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db57.webp",
+    "new": "DUB__id=057__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db58.webp",
+    "new": "DUB__id=058__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db59.webp",
+    "new": "DUB__id=059__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db60.webp",
+    "new": "DUB__id=060__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db61.webp",
+    "new": "DUB__id=061__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db62.webp",
+    "new": "DUB__id=062__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db63.webp",
+    "new": "DUB__id=063__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db64.webp",
+    "new": "DUB__id=064__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db65.webp",
+    "new": "DUB__id=065__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db66.webp",
+    "new": "DUB__id=066__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db67.webp",
+    "new": "DUB__id=067__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db68.webp",
+    "new": "DUB__id=068__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db69.webp",
+    "new": "DUB__id=069__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db70.webp",
+    "new": "DUB__id=070__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db71.webp",
+    "new": "DUB__id=071__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db72.webp",
+    "new": "DUB__id=072__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=疲惫__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db73.webp",
+    "new": "DUB__id=073__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db74.webp",
+    "new": "DUB__id=074__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db75.webp",
+    "new": "DUB__id=075__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db76.webp",
+    "new": "DUB__id=076__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db77.webp",
+    "new": "DUB__id=077__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=疲惫__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db78.webp",
+    "new": "DUB__id=078__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db79.webp",
+    "new": "DUB__id=079__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=紧张__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db80.webp",
+    "new": "DUB__id=080__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db81.webp",
+    "new": "DUB__id=081__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db82.webp",
+    "new": "DUB__id=082__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db83.webp",
+    "new": "DUB__id=083__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db84.webp",
+    "new": "DUB__id=084__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=紧张__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db85.webp",
+    "new": "DUB__id=085__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db86.webp",
+    "new": "DUB__id=086__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db87.webp",
+    "new": "DUB__id=087__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db88.webp",
+    "new": "DUB__id=088__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db89.webp",
+    "new": "DUB__id=089__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db90.webp",
+    "new": "DUB__id=090__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db91.webp",
+    "new": "DUB__id=091__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db92.webp",
+    "new": "DUB__id=092__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db93.webp",
+    "new": "DUB__id=093__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db94.webp",
+    "new": "DUB__id=094__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=紧张__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db95.webp",
+    "new": "DUB__id=095__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db96.webp",
+    "new": "DUB__id=096__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db97.webp",
+    "new": "DUB__id=097__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db98.webp",
+    "new": "DUB__id=098__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db99.webp",
+    "new": "DUB__id=099__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db100.webp",
+    "new": "DUB__id=100__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db101.webp",
+    "new": "DUB__id=101__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db102.webp",
+    "new": "DUB__id=102__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db103.webp",
+    "new": "DUB__id=103__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db104.webp",
+    "new": "DUB__id=104__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db105.webp",
+    "new": "DUB__id=105__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db106.webp",
+    "new": "DUB__id=106__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db107.webp",
+    "new": "DUB__id=107__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db108.webp",
+    "new": "DUB__id=108__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db109.webp",
+    "new": "DUB__id=109__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db110.webp",
+    "new": "DUB__id=110__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db111.webp",
+    "new": "DUB__id=111__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db112.webp",
+    "new": "DUB__id=112__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db113.webp",
+    "new": "DUB__id=113__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db114.webp",
+    "new": "DUB__id=114__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db115.webp",
+    "new": "DUB__id=115__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db116.webp",
+    "new": "DUB__id=116__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db117.webp",
+    "new": "DUB__id=117__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db118.webp",
+    "new": "DUB__id=118__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=疲惫__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db119.webp",
+    "new": "DUB__id=119__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db120.webp",
+    "new": "DUB__id=120__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db121.webp",
+    "new": "DUB__id=121__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db122.webp",
+    "new": "DUB__id=122__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=愤怒__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db123.webp",
+    "new": "DUB__id=123__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=悲伤__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db124.webp",
+    "new": "DUB__id=124__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db125.webp",
+    "new": "DUB__id=125__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db126.webp",
+    "new": "DUB__id=126__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=紧张__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db127.webp",
+    "new": "DUB__id=127__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db128.webp",
+    "new": "DUB__id=128__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db129.webp",
+    "new": "DUB__id=129__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db130.webp",
+    "new": "DUB__id=130__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db131.webp",
+    "new": "DUB__id=131__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db132.webp",
+    "new": "DUB__id=132__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db133.webp",
+    "new": "DUB__id=133__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db134.webp",
+    "new": "DUB__id=134__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db135.webp",
+    "new": "DUB__id=135__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db136.webp",
+    "new": "DUB__id=136__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db137.webp",
+    "new": "DUB__id=137__collection=老年角色__voiceType=人类__gender=unknown__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db138.webp",
+    "new": "DUB__id=138__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db139.webp",
+    "new": "DUB__id=139__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db140.webp",
+    "new": "DUB__id=140__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db141.webp",
+    "new": "DUB__id=141__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db142.webp",
+    "new": "DUB__id=142__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db143.webp",
+    "new": "DUB__id=143__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=愤怒__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db144.webp",
+    "new": "DUB__id=144__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db145.webp",
+    "new": "DUB__id=145__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=悲伤__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db146.webp",
+    "new": "DUB__id=146__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=紧张__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db147.webp",
+    "new": "DUB__id=147__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db148.webp",
+    "new": "DUB__id=148__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db149.webp",
+    "new": "DUB__id=149__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db150.webp",
+    "new": "DUB__id=150__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db151.webp",
+    "new": "DUB__id=151__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=紧张__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db152.webp",
+    "new": "DUB__id=152__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db153.webp",
+    "new": "DUB__id=153__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db154.webp",
+    "new": "DUB__id=154__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db155.webp",
+    "new": "DUB__id=155__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db156.webp",
+    "new": "DUB__id=156__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db157.webp",
+    "new": "DUB__id=157__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db158.webp",
+    "new": "DUB__id=158__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db159.webp",
+    "new": "DUB__id=159__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db160.webp",
+    "new": "DUB__id=160__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db161.webp",
+    "new": "DUB__id=161__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db162.webp",
+    "new": "DUB__id=162__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db163.webp",
+    "new": "DUB__id=163__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db164.webp",
+    "new": "DUB__id=164__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=严肃__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db165.webp",
+    "new": "DUB__id=165__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db166.webp",
+    "new": "DUB__id=166__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db167.webp",
+    "new": "DUB__id=167__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db168.webp",
+    "new": "DUB__id=168__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db169.webp",
+    "new": "DUB__id=169__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db170.webp",
+    "new": "DUB__id=170__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=愤怒__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db171.webp",
+    "new": "DUB__id=171__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db172.webp",
+    "new": "DUB__id=172__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db173.webp",
+    "new": "DUB__id=173__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db174.webp",
+    "new": "DUB__id=174__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=疲惫__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db175.webp",
+    "new": "DUB__id=175__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db176.webp",
+    "new": "DUB__id=176__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db177.webp",
+    "new": "DUB__id=177__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db178.webp",
+    "new": "DUB__id=178__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db179.webp",
+    "new": "DUB__id=179__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db180.webp",
+    "new": "DUB__id=180__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db181.webp",
+    "new": "DUB__id=181__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db182.webp",
+    "new": "DUB__id=182__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db183.webp",
+    "new": "DUB__id=183__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db184.webp",
+    "new": "DUB__id=184__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db185.webp",
+    "new": "DUB__id=185__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db186.webp",
+    "new": "DUB__id=186__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db187.webp",
+    "new": "DUB__id=187__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db188.webp",
+    "new": "DUB__id=188__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db189.webp",
+    "new": "DUB__id=189__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db190.webp",
+    "new": "DUB__id=190__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db191.webp",
+    "new": "DUB__id=191__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db192.webp",
+    "new": "DUB__id=192__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db193.webp",
+    "new": "DUB__id=193__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db194.webp",
+    "new": "DUB__id=194__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db195.webp",
+    "new": "DUB__id=195__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db196.webp",
+    "new": "DUB__id=196__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db197.webp",
+    "new": "DUB__id=197__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db198.webp",
+    "new": "DUB__id=198__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db199.webp",
+    "new": "DUB__id=199__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db200.webp",
+    "new": "DUB__id=200__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db201.webp",
+    "new": "DUB__id=201__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db202.webp",
+    "new": "DUB__id=202__collection=综合__voiceType=unknown__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=神秘__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db203.webp",
+    "new": "DUB__id=203__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db204.webp",
+    "new": "DUB__id=204__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db205.webp",
+    "new": "DUB__id=205__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db206.webp",
+    "new": "DUB__id=206__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db207.webp",
+    "new": "DUB__id=207__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db208.webp",
+    "new": "DUB__id=208__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db209.webp",
+    "new": "DUB__id=209__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db210.webp",
+    "new": "DUB__id=210__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db211.webp",
+    "new": "DUB__id=211__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db212.webp",
+    "new": "DUB__id=212__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db213.webp",
+    "new": "DUB__id=213__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db214.webp",
+    "new": "DUB__id=214__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db215.webp",
+    "new": "DUB__id=215__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db216.webp",
+    "new": "DUB__id=216__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db217.webp",
+    "new": "DUB__id=217__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db218.webp",
+    "new": "DUB__id=218__collection=机器人__voiceType=机器人__gender=未标注__age=unknown__register=中音__timbre=机械__persona=冷静__emotion=平静__usage=解说__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db219.webp",
+    "new": "DUB__id=219__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db220.webp",
+    "new": "DUB__id=220__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db221.webp",
+    "new": "DUB__id=221__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db222.webp",
+    "new": "DUB__id=222__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db223.webp",
+    "new": "DUB__id=223__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db224.webp",
+    "new": "DUB__id=224__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db225.webp",
+    "new": "DUB__id=225__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db226.webp",
+    "new": "DUB__id=226__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db227.webp",
+    "new": "DUB__id=227__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=严肃__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db228.webp",
+    "new": "DUB__id=228__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db229.webp",
+    "new": "DUB__id=229__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db230.webp",
+    "new": "DUB__id=230__collection=机器人__voiceType=机器人__gender=未标注__age=unknown__register=中音__timbre=机械__persona=冷静__emotion=平静__usage=解说__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db231.webp",
+    "new": "DUB__id=231__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db232.webp",
+    "new": "DUB__id=232__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db233.webp",
+    "new": "DUB__id=233__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db234.webp",
+    "new": "DUB__id=234__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db235.webp",
+    "new": "DUB__id=235__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db236.webp",
+    "new": "DUB__id=236__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db237.webp",
+    "new": "DUB__id=237__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db238.webp",
+    "new": "DUB__id=238__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db239.webp",
+    "new": "DUB__id=239__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db240.webp",
+    "new": "DUB__id=240__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db241.webp",
+    "new": "DUB__id=241__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db242.webp",
+    "new": "DUB__id=242__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db243.webp",
+    "new": "DUB__id=243__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db244.webp",
+    "new": "DUB__id=244__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db245.webp",
+    "new": "DUB__id=245__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db246.webp",
+    "new": "DUB__id=246__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db247.webp",
+    "new": "DUB__id=247__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db248.webp",
+    "new": "DUB__id=248__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db249.webp",
+    "new": "DUB__id=249__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db250.webp",
+    "new": "DUB__id=250__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db251.webp",
+    "new": "DUB__id=251__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db252.webp",
+    "new": "DUB__id=252__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db253.webp",
+    "new": "DUB__id=253__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db254.webp",
+    "new": "DUB__id=254__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db255.webp",
+    "new": "DUB__id=255__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db256.webp",
+    "new": "DUB__id=256__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db257.webp",
+    "new": "DUB__id=257__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db258.webp",
+    "new": "DUB__id=258__collection=综合__voiceType=unknown__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=神秘__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db259.webp",
+    "new": "DUB__id=259__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db260.webp",
+    "new": "DUB__id=260__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=旁白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db261.webp",
+    "new": "DUB__id=261__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=严肃__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db262.webp",
+    "new": "DUB__id=262__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db263.webp",
+    "new": "DUB__id=263__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=严肃__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db264.webp",
+    "new": "DUB__id=264__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db265.webp",
+    "new": "DUB__id=265__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db266.webp",
+    "new": "DUB__id=266__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db267.webp",
+    "new": "DUB__id=267__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db268.webp",
+    "new": "DUB__id=268__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=愤怒__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db269.webp",
+    "new": "DUB__id=269__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db270.webp",
+    "new": "DUB__id=270__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db271.webp",
+    "new": "DUB__id=271__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db272.webp",
+    "new": "DUB__id=272__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db273.webp",
+    "new": "DUB__id=273__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db274.webp",
+    "new": "DUB__id=274__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db275.webp",
+    "new": "DUB__id=275__collection=机器人__voiceType=机器人__gender=未标注__age=unknown__register=中音__timbre=机械__persona=冷静__emotion=平静__usage=解说__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db276.webp",
+    "new": "DUB__id=276__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db277.webp",
+    "new": "DUB__id=277__collection=综合__voiceType=动物__gender=未标注__age=unknown__register=unknown__timbre=unknown__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db278.webp",
+    "new": "DUB__id=278__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db279.webp",
+    "new": "DUB__id=279__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db280.webp",
+    "new": "DUB__id=280__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db281.webp",
+    "new": "DUB__id=281__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db282.webp",
+    "new": "DUB__id=282__collection=机器人__voiceType=机器人__gender=未标注__age=unknown__register=中音__timbre=机械__persona=冷静__emotion=平静__usage=解说__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db283.webp",
+    "new": "DUB__id=283__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db284.webp",
+    "new": "DUB__id=284__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db285.webp",
+    "new": "DUB__id=285__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db286.webp",
+    "new": "DUB__id=286__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db287.webp",
+    "new": "DUB__id=287__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db288.webp",
+    "new": "DUB__id=288__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db289.webp",
+    "new": "DUB__id=289__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db290.webp",
+    "new": "DUB__id=290__collection=角色戏剧__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db291.webp",
+    "new": "DUB__id=291__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db292.webp",
+    "new": "DUB__id=292__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db293.webp",
+    "new": "DUB__id=293__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db294.webp",
+    "new": "DUB__id=294__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db295.webp",
+    "new": "DUB__id=295__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db296.webp",
+    "new": "DUB__id=296__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db297.webp",
+    "new": "DUB__id=297__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=旁白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db298.webp",
+    "new": "DUB__id=298__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db299.webp",
+    "new": "DUB__id=299__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db300.webp",
+    "new": "DUB__id=300__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db301.webp",
+    "new": "DUB__id=301__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db302.webp",
+    "new": "DUB__id=302__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db303.webp",
+    "new": "DUB__id=303__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db304.webp",
+    "new": "DUB__id=304__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=紧张__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db305.webp",
+    "new": "DUB__id=305__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db306.webp",
+    "new": "DUB__id=306__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db307.webp",
+    "new": "DUB__id=307__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db308.webp",
+    "new": "DUB__id=308__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db309.webp",
+    "new": "DUB__id=309__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db310.webp",
+    "new": "DUB__id=310__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db311.webp",
+    "new": "DUB__id=311__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db312.webp",
+    "new": "DUB__id=312__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db313.webp",
+    "new": "DUB__id=313__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db314.webp",
+    "new": "DUB__id=314__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db315.webp",
+    "new": "DUB__id=315__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db316.webp",
+    "new": "DUB__id=316__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db317.webp",
+    "new": "DUB__id=317__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db318.webp",
+    "new": "DUB__id=318__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=疲惫__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db319.webp",
+    "new": "DUB__id=319__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db320.webp",
+    "new": "DUB__id=320__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db321.webp",
+    "new": "DUB__id=321__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db322.webp",
+    "new": "DUB__id=322__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db323.webp",
+    "new": "DUB__id=323__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db324.webp",
+    "new": "DUB__id=324__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=愤怒__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db325.webp",
+    "new": "DUB__id=325__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db326.webp",
+    "new": "DUB__id=326__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=悲伤__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db327.webp",
+    "new": "DUB__id=327__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db328.webp",
+    "new": "DUB__id=328__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db329.webp",
+    "new": "DUB__id=329__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db330.webp",
+    "new": "DUB__id=330__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db331.webp",
+    "new": "DUB__id=331__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db332.webp",
+    "new": "DUB__id=332__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db333.webp",
+    "new": "DUB__id=333__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db334.webp",
+    "new": "DUB__id=334__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db335.webp",
+    "new": "DUB__id=335__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db336.webp",
+    "new": "DUB__id=336__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db337.webp",
+    "new": "DUB__id=337__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=疲惫__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db338.webp",
+    "new": "DUB__id=338__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db339.webp",
+    "new": "DUB__id=339__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db340.webp",
+    "new": "DUB__id=340__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db341.webp",
+    "new": "DUB__id=341__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db342.webp",
+    "new": "DUB__id=342__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db343.webp",
+    "new": "DUB__id=343__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=悲伤__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db344.webp",
+    "new": "DUB__id=344__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=愤怒__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db345.webp",
+    "new": "DUB__id=345__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db346.webp",
+    "new": "DUB__id=346__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db347.webp",
+    "new": "DUB__id=347__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db348.webp",
+    "new": "DUB__id=348__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db349.webp",
+    "new": "DUB__id=349__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=愤怒__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db350.webp",
+    "new": "DUB__id=350__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db351.webp",
+    "new": "DUB__id=351__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db352.webp",
+    "new": "DUB__id=352__collection=老年角色__voiceType=人类__gender=unknown__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db353.webp",
+    "new": "DUB__id=353__collection=老年角色__voiceType=人类__gender=unknown__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db354.webp",
+    "new": "DUB__id=354__collection=老年角色__voiceType=人类__gender=男__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db355.webp",
+    "new": "DUB__id=355__collection=老年角色__voiceType=人类__gender=女__age=老年__register=中低音__timbre=沧桑__persona=成熟__emotion=悲伤__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db356.webp",
+    "new": "DUB__id=356__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=紧张__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db357.webp",
+    "new": "DUB__id=357__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db358.webp",
+    "new": "DUB__id=358__collection=角色戏剧__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db359.webp",
+    "new": "DUB__id=359__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db360.webp",
+    "new": "DUB__id=360__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db361.webp",
+    "new": "DUB__id=361__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db362.webp",
+    "new": "DUB__id=362__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db363.webp",
+    "new": "DUB__id=363__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db364.webp",
+    "new": "DUB__id=364__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db365.webp",
+    "new": "DUB__id=365__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db366.webp",
+    "new": "DUB__id=366__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db367.webp",
+    "new": "DUB__id=367__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db368.webp",
+    "new": "DUB__id=368__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db369.webp",
+    "new": "DUB__id=369__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db370.webp",
+    "new": "DUB__id=370__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db371.webp",
+    "new": "DUB__id=371__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db372.webp",
+    "new": "DUB__id=372__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db373.webp",
+    "new": "DUB__id=373__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=平静__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db374.webp",
+    "new": "DUB__id=374__collection=儿童少年__voiceType=人类__gender=unknown__age=幼年__register=高音__timbre=清亮__persona=可爱__emotion=疲惫__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db375.webp",
+    "new": "DUB__id=375__collection=男声__voiceType=人类__gender=男__age=青年__register=中音__timbre=unknown__persona=unknown__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db376.webp",
+    "new": "DUB__id=376__collection=儿童少年__voiceType=人类__gender=unknown__age=少年__register=中高音__timbre=清亮__persona=可爱+活泼__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db377.webp",
+    "new": "DUB__id=377__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  },
+  {
+    "old": "db378.webp",
+    "new": "DUB__id=378__collection=女声__voiceType=人类__gender=女__age=青年__register=中音__timbre=unknown__persona=温柔__emotion=开心__usage=角色对白__pace=中速__accent=unknown.webp"
+  }
+]
